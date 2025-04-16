@@ -1,12 +1,7 @@
 # Omnia
-Voici un exemple de contenu pour un fichier README.md en Markdown, présentant le projet d’interpréteur Omnia de manière claire et attractive :
 
 
----
-
-Interpréteur Omnia
-
-Un interpréteur complet du langage Omnia écrit en Python.
+Un interpréteur complet du langage Omnia écrit en Python..
 Ce projet implémente une vaste partie de la syntaxe d’Omnia, incluant la gestion des variables (mutables et immuables), des fonctions (y compris les lambdas), des structures de contrôle (conditions, boucles, try/catch/finally), des littéraux (listes, dictionnaires), ainsi que des constructions de la programmation orientée objet et de la concurrence (acteurs, spawn de threads).
 
 
